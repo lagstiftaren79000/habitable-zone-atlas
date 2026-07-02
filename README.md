@@ -4,7 +4,7 @@ A live field journal of NASA's confirmed exoplanets, scored and plotted by how l
 
 Built for the **NASA × Hack Club Stardance Challenge**.
 
-**[Live demo →](#)** *habitable-zone-atlas.vercel.app
+**[Live demo →](#)** (https://habitable-zone-atlas.vercel.app/)
 
 ---
 
